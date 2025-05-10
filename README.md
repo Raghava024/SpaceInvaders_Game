@@ -2,7 +2,8 @@
 
 A Python implementation of the classic Space Invaders arcade game using the Turtle graphics library.
 
-[Space Invaders Game](image.png)
+![image](https://github.com/user-attachments/assets/cc1455b2-2acc-4e05-a393-185951562d24)
+
 
 ## Table of Contents
 - [Description](#description)
